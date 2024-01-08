@@ -39,7 +39,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/Anjana2205/slot/assets/144869446/16b8bda8-8644-4542-830e-d7bc2b7c839d)
+
 
 
 
